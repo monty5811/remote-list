@@ -16,7 +16,7 @@ module RemoteList
         , toList
         )
 
-{-| This library provides helpers for with with lists of remote data.
+{-| This library provides helpers for working with lists of remote data.
 
 @docs RemoteList
 
