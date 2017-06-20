@@ -1,6 +1,6 @@
 # Remote List
 
-[![Build Status](https://travis-ci.org/monty5811/remote-list.svg?branch=master)](https://travis-ci.org/elm-community/list-extra)
+[![Build Status](https://travis-ci.org/monty5811/remote-list.svg?branch=master)](https://travis-ci.org/monty5811/remote-list)
 
 Data type and convenience functions to work with a list of data fetched from a remote source.
 
